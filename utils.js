@@ -27,7 +27,6 @@ const filterList = [
   'NodeID-KJPAz45LozvjN23iXHih1jGikZ1u2ZrNj',
   'NodeID-6FSSZuuLEZ4sHJZGfpY4Wuz8M3qnK6ec5',
   'NodeID-9dhM1zG3atcKhiwhjRHZEEsvYBNM9wj6',
-  'NodeID-NbJexKdcMyN1E1GYH1ra58jP61dZpt1wu',
   'NodeID-JSKsSxV74dyp94CvBKqEKUcEEKBXyNbge'
 ]
 
